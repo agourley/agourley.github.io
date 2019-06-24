@@ -1,0 +1,15 @@
+body {
+  backgrouns-color: white;
+  color: #FFFFFF;
+}
+h1 {
+  color: #00008B;
+  text-align: left;
+  font: italic 200% fantasy;
+}
+p {
+  color: #00008C;
+}
+#nav-table {
+  width: 800px;
+}
